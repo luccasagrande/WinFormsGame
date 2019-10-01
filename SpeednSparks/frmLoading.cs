@@ -17,5 +17,10 @@ namespace SpeednSparks
         {
             InitializeComponent();
         }
+        
+        private void frmLoading_Load(object sender, EventArgs e)//1
+        {
+
+        }
     }
 }
