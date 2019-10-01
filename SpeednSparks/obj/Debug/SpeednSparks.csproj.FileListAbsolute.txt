@@ -1,0 +1,9 @@
+C:\Users\lucas\Desktop\Lucas\Programacao\C#\Projetos\WinFormsGame\SpeednSparks\bin\Debug\SpeednSparks.exe.config
+C:\Users\lucas\Desktop\Lucas\Programacao\C#\Projetos\WinFormsGame\SpeednSparks\bin\Debug\SpeednSparks.exe
+C:\Users\lucas\Desktop\Lucas\Programacao\C#\Projetos\WinFormsGame\SpeednSparks\bin\Debug\SpeednSparks.pdb
+C:\Users\lucas\Desktop\Lucas\Programacao\C#\Projetos\WinFormsGame\SpeednSparks\obj\Debug\SpeednSparks.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\Lucas\Programacao\C#\Projetos\WinFormsGame\SpeednSparks\obj\Debug\SpeednSparks.frmLoading.resources
+C:\Users\lucas\Desktop\Lucas\Programacao\C#\Projetos\WinFormsGame\SpeednSparks\obj\Debug\SpeednSparks.Properties.Resources.resources
+C:\Users\lucas\Desktop\Lucas\Programacao\C#\Projetos\WinFormsGame\SpeednSparks\obj\Debug\SpeednSparks.csproj.GenerateResource.Cache
+C:\Users\lucas\Desktop\Lucas\Programacao\C#\Projetos\WinFormsGame\SpeednSparks\obj\Debug\SpeednSparks.exe
+C:\Users\lucas\Desktop\Lucas\Programacao\C#\Projetos\WinFormsGame\SpeednSparks\obj\Debug\SpeednSparks.pdb
