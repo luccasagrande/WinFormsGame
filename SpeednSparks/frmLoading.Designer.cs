@@ -34,7 +34,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::SpeednSparks.Properties.Resources.fromLoadingBG;
+            this.BackgroundImage = global::SpeednSparks.Properties.Resources.fromLoadingBG1;
             this.ClientSize = new System.Drawing.Size(720, 404);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmLoading";
