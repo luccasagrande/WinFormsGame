@@ -13,6 +13,7 @@ namespace SpeednSparks
 {
     public partial class frmLoading : Form
     {
+        public delegate void MethodPointer();
         public frmLoading()
         {
             InitializeComponent();
@@ -26,7 +27,14 @@ namespace SpeednSparks
 
         private void openGamemenu()
         {
-            
+            frmGamemenu gm = new frmGamemenu();
+            Thread.Sleep(3000);
+            this.Invoke(new MethodPointer(formClose));
+            gm.ShowDialog();
+        }
+        private void formClose()
+        {
+            this.Close();
         }
     }
 }

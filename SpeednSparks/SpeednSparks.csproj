@@ -45,6 +45,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmGamemenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGamemenu.Designer.cs">
+      <DependentUpon>frmGamemenu.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmLoading.cs">
       <SubType>Form</SubType>
     </Compile>
