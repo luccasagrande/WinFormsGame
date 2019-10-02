@@ -28,22 +28,36 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.SuspendLayout();
+            // 
+            // progressBar1
+            // 
+            this.progressBar1.Location = new System.Drawing.Point(119, 385);
+            this.progressBar1.MarqueeAnimationSpeed = 1;
+            this.progressBar1.Name = "progressBar1";
+            this.progressBar1.Size = new System.Drawing.Size(495, 10);
+            this.progressBar1.Style = System.Windows.Forms.ProgressBarStyle.Marquee;
+            this.progressBar1.TabIndex = 0;
             // 
             // frmLoading
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::SpeednSparks.Properties.Resources.fromLoadingBG;
+            this.BackgroundImage = global::SpeednSparks.Properties.Resources.fromLoadingBG1;
             this.ClientSize = new System.Drawing.Size(720, 404);
+            this.Controls.Add(this.progressBar1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmLoading";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Load += new System.EventHandler(this.frmLoading_Load);
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
+        private System.Windows.Forms.ProgressBar progressBar1;
     }
 }
 
